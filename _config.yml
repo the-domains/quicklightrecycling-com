@@ -1,0 +1,28 @@
+name: quicklightrecycling.com
+favicon: null
+layout_spectrum: 0.808628040831536
+typography_spectrum: 0.16784808435477316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.28784741065464914
+  lightness: 0.7799548250623047
+  saturation: 0.16148179839365184
+  rhythmicContrast: 0.7314792557153851
+purpose: []
